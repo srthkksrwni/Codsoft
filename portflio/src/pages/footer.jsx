@@ -12,7 +12,7 @@ function Footer() {
                 <script>document.write(new Date().getFullYear())</script> &copy;{" "}
                 <a href="http://www.devcrud.com" target="_blank">
                   2023
-                </a> || Designed by SARTHAK KESARWANI
+                </a> || Designed by SARTHAK KESARWANI !
               </p>
             </div>
             <div className="col-sm-6">
